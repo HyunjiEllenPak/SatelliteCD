@@ -21,4 +21,6 @@ Dataset
 </p>
 
 
-
+Contact
+--------------
+If you have any questions, feel free to email me at hyunjipak0617@gmail.com
